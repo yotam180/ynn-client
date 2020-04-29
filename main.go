@@ -16,7 +16,7 @@ import (
 )
 
 const (
-	baseURL = "https://ynn-storage.herokuapp.com"
+	baseURL = "https://ynn-store.herokuapp.com"
 )
 
 /*
